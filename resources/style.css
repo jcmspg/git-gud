@@ -1,0 +1,27 @@
+* {
+    font-family: monospace;
+    background-color: aquamarine;
+    color: azure;
+    font-weight:bold;
+}
+
+header {
+    text-align: center;
+    border: 3px solid green;
+}
+
+#gitgone {
+    text-align: center;
+    border: 3px solid red;
+    margin: 50px 0;
+    padding: 50px;
+}
+
+h1, h2 {
+    color: black;
+}
+
+a {
+    color: brown;
+    font-size: 100px;
+}
